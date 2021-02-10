@@ -64,4 +64,4 @@ var script = document.createElement('script');
   script.onload = function() {
     console.log('your script have been loaded');
   }
-  document.body.appendChild(script)
+  document.body.appendChild(script);
