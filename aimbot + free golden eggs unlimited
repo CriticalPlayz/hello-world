@@ -20,10 +20,13 @@ script.type = 'text/javascript';
 document.body.appendChild(script);
 
 */
-// @name    Unlimited Golden Eggs ShellShock Hack
+// @name    ShellShock Modification 2.0
 // @version 5.2.2
-// @description Modifications to Shell Shockers Cheatspade
-// @author CriticalPlayz
-// @match https://softboiled.club
+// @description CheatSpade mod for shellshockers with unlimited golden egg hack
+// @match https://softboiled.club/
 // @grant none
-// @namespace ;In Progress
+// @namepsace ;In Progress
+
+;Project Credits
+@TDStuart
+@CriticalPlayz
